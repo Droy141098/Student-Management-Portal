@@ -1,0 +1,30 @@
+.bar {
+    background-color: rgb(255, 60, 0);
+}
+.logo
+{
+     background-image: linear-gradient(green,white);
+}
+
+.container
+{
+    height: 320px;
+    border: 1px solid black;
+    margin: auto;
+    width: 500px;
+    background-color: lightblue;
+    margin-top: 150px;
+}
+#uname
+{
+    border-radius: 25px;
+   
+}
+#pwd
+{
+    border-radius: 25px;
+}
+body
+{
+    background-image: url(../images/back.jpg);
+}

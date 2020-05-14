@@ -1,0 +1,29 @@
+
+.container-fluid
+{
+    height: 130px;
+ 
+
+    width: 1500px;
+
+    background-color: #20bf55;
+background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
+ border:3px solid black;
+    margin-top: 20px;
+    border-radius:25px;
+}
+.details
+{
+    background-color: red;
+    margin:auto;
+    width: 400px;
+    margin-top: 10px;
+
+}
+
+.row1{
+    margin-left:15px;
+}
+.profilebtn{
+    margin-top: 25px;
+}
